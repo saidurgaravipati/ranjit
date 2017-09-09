@@ -1,0 +1,1 @@
+this class should contain multiple fails
